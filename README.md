@@ -8,9 +8,7 @@ I'm in the Full Stack Web Dev program @ Tech Talent South...
 
 <img src="https://qph.fs.quoracdn.net/main-qimg-31ac3fa03ca21ee9405c96f68378c4b5.webp" width="600px">
 
-Wanna Learn More About Me?:
-
-You Can Visit <a href="https://steveantoniosilva.github.io/" target="_blank">My GitHub Page</a>
+Check out <a href="https://steveantoniosilva.github.io/" target="_blank">My GitHub Page</a>
 
 <!--
 **steveantoniosilva/steveantoniosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
