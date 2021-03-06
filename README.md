@@ -2,7 +2,7 @@ Hey! I'm Steve!
 
 I'm in the Full Stack Web Dev Program @ Tech Talent South!
 
-<img src="https://images.unsplash.com/photo-1536104968055-4d61aa56f46a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzF8fGNvZGluZ3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width="800px">
+<img src="https://images.unsplash.com/photo-1612015670817-0127d21628d4?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzR8fGZhc2hpb24lMjBtZW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width="800px">
 
 <img src="https://i.pinimg.com/originals/59/92/3f/59923fdf2db50eca7e3b95c26266c30a.jpg" width="800px">
 
