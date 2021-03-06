@@ -2,6 +2,8 @@ Hey! I'm Steve!
 
 I'm in the Full Stack Web Dev program @ Tech Talent South...
 
+<br>
+
 <img src="https://www.fearlessmotivation.com/wp-content/uploads/2015/05/michael-jordan-quotes-10-1280x720.jpg" width="600px">
 
 <img src="https://i.pinimg.com/originals/59/92/3f/59923fdf2db50eca7e3b95c26266c30a.jpg" width="600px">
