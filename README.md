@@ -6,11 +6,9 @@ Hey! I'm Steve!
 
 <img src="https://qph.fs.quoracdn.net/main-qimg-31ac3fa03ca21ee9405c96f68378c4b5.webp" width="600px">
 
-A LITTLE BIT ABOUT ME RIGHT NOW:
+Wanna Learn More About Me?:
 
-I'm currently in the Full Stack Web Dev Program @ Tech Talent South! 
-
-Hence the short bio! My time is taken learning to code!!!
+You Can Visit <a href="https://steveantoniosilva.github.io/" target="_blank">My GitHub Page</a>
 
 <!--
 **steveantoniosilva/steveantoniosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
