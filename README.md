@@ -8,7 +8,7 @@ I'm in the Full Stack Web Dev Program @ Tech Talent South!
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa76O5tbYopURbTJbBckSxBzi_8y-84-2qtg&usqp=CAU" width="800px">
 
-<img src="https://i1.wp.com/derynsdevelopmentblog.com/wp-content/uploads/2020/01/Goals-and-dreams.png?fit=560%2C315&ssl=1" width="800px">
+<img src="https://i.pinimg.com/originals/64/bc/b3/64bcb3aa77e4341cfe1bee643be4bc91.jpg" width="800px">
 
 <!--
 **steveantoniosilva/steveantoniosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
