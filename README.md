@@ -1,5 +1,7 @@
 Hey! I'm Steve!
 
+I'm in Tech Talent South's Full Stack Web Dev Program!
+
 <img src="https://images.unsplash.com/photo-1556717511-1edf98a4aba6?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjI4fHxjb21wdXRlciUyMHByb2dyYW1taW5nfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60">
 
 <!--
