@@ -1,5 +1,7 @@
-###My name is Steve Silva
+
+
 <img src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjB8fGNvZGluZ3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60">
+
 <!--
 **steveantoniosilva/steveantoniosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
