@@ -4,6 +4,8 @@ I'm in the Full Stack Web Dev Program @ Tech Talent South!
 
 <img src="https://images.unsplash.com/photo-1545014171-35a4a2cfaedb?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NTk3fHxjb21wdXRlciUyMHByb2dyYW1taW5nfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60">
 
+<img src="https://i.pinimg.com/originals/0c/e4/32/0ce4326f1abd77c8e1c47363529f92f4.jpg">
+
 <!--
 **steveantoniosilva/steveantoniosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
