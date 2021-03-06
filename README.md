@@ -2,7 +2,7 @@ Hey! I'm Steve!
 
 I'm in the Full Stack Web Dev Program @ Tech Talent South!
 
-<img src="https://images.unsplash.com/photo-1556717511-1edf98a4aba6?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjI4fHxjb21wdXRlciUyMHByb2dyYW1taW5nfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60">
+<img src="https://images.unsplash.com/photo-1589652717406-1c69efaf1ff8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzM2fHxjb21wdXRlciUyMHByb2dyYW1taW5nfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60">
 
 <!--
 **steveantoniosilva/steveantoniosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
