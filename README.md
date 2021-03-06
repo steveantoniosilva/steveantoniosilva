@@ -10,8 +10,6 @@ I'm in the Full Stack Web Dev Program @ Tech Talent South!
 
 <img src="https://qph.fs.quoracdn.net/main-qimg-31ac3fa03ca21ee9405c96f68378c4b5.webp" width="600px">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa76O5tbYopURbTJbBckSxBzi_8y-84-2qtg&usqp=CAU" width="600px">
-
 <!--
 **steveantoniosilva/steveantoniosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
