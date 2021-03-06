@@ -8,9 +8,9 @@ I'm in the Full Stack Web Dev Program @ Tech Talent South!
 
 <img src="https://i.pinimg.com/originals/59/92/3f/59923fdf2db50eca7e3b95c26266c30a.jpg" width="600px">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa76O5tbYopURbTJbBckSxBzi_8y-84-2qtg&usqp=CAU" width="600px">
+<img src="https://qph.fs.quoracdn.net/main-qimg-31ac3fa03ca21ee9405c96f68378c4b5.webp" width="600px">
 
-<img src="https://images.unsplash.com/photo-1601163783210-8eb377426d30?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTU1fHxiZWxpZXZlJTIwaW4lMjB5b3Vyc2VsZnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width="600px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa76O5tbYopURbTJbBckSxBzi_8y-84-2qtg&usqp=CAU" width="600px">
 
 <!--
 **steveantoniosilva/steveantoniosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
