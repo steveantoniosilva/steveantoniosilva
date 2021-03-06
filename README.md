@@ -4,7 +4,7 @@ I'm in the Full Stack Web Dev Program @ Tech Talent South!
 
 <img src="https://i.pinimg.com/originals/64/bc/b3/64bcb3aa77e4341cfe1bee643be4bc91.jpg" width="600px">
 
-<img src="https://images.unsplash.com/photo-1612015670817-0127d21628d4?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzR8fGZhc2hpb24lMjBtZW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width="600px">
+<img src="https://images.unsplash.com/photo-1611312449412-6cefac5dc3e4?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTl8fGZhc2hpb24lMjBtZW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width="600px">
 
 <img src="https://i.pinimg.com/originals/59/92/3f/59923fdf2db50eca7e3b95c26266c30a.jpg" width="600px">
 
