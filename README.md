@@ -2,6 +2,8 @@ Hey! I'm Steve!
 
 I'm in the Full Stack Web Dev program @ Tech Talent South...
 
+Check out <a href="https://steveantoniosilva.github.io/" target="_blank">My GitHub Page</a> to learn more about me!
+
 <br>
 
 <img src="https://www.fearlessmotivation.com/wp-content/uploads/2015/05/michael-jordan-quotes-10-1280x720.jpg" width="600px">
@@ -10,7 +12,7 @@ I'm in the Full Stack Web Dev program @ Tech Talent South...
 
 <img src="https://qph.fs.quoracdn.net/main-qimg-31ac3fa03ca21ee9405c96f68378c4b5.webp" width="600px">
 
-Check out <a href="https://steveantoniosilva.github.io/" target="_blank">My GitHub Page</a> to see what I'm up to!
+
 
 <!--
 **steveantoniosilva/steveantoniosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
