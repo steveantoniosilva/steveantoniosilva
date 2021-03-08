@@ -1,7 +1,5 @@
 Hey! I'm Steve!
 
-I'm in the Full Stack Web Dev program @ Tech Talent South...
-
 Check out <a href="https://steveantoniosilva.github.io/" target="_blank">My GitHub Page</a> to learn more about me!
 
 <br>
