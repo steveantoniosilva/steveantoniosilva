@@ -18,7 +18,7 @@ Check out <a href="https://steveantoniosilva.github.io/" target="_blank">My GitH
 
 <br>
 
-"We must dig deep into our own resevoir of perseverance, because it's often the last key in the bunch that opens the lock."
+"We must dig deep into our own reservoir of perseverance, because it's often the last key in the bunch that opens the lock."
 
 
 
