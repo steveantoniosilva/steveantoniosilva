@@ -22,7 +22,7 @@ Check out <a href="https://steveantoniosilva.github.io/" target="_blank">My GitH
 
 <br>
 
-- Steve Jobs
+Quote by Steve Jobs
 
 
 
