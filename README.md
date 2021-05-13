@@ -18,7 +18,11 @@ Check out <a href="https://steveantoniosilva.github.io/" target="_blank">My GitH
 
 <br>
 
-"We must dig deep into our own reservoir of perseverance, because it's often the last key in the bunch that opens the lock."
+"Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition." 
+
+<br>
+
+- Steve Jobs
 
 
 
