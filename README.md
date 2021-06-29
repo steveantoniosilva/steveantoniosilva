@@ -2,11 +2,7 @@ I'm Steve!
 
 Check out <a href="https://steveantoniosilva.github.io/" target="_blank">My GitHub Page</a> to learn more about me!
 
-<br>
-
 <img src="https://qph.fs.quoracdn.net/main-qimg-31ac3fa03ca21ee9405c96f68378c4b5.webp" width="600px">
-
-<br>
 
 "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition." 
 
