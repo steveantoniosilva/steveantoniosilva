@@ -6,10 +6,6 @@ Check out <a href="https://steveantoniosilva.github.io/" target="_blank">My GitH
 
 <br>
 
-<img src="https://www.fearlessmotivation.com/wp-content/uploads/2015/05/michael-jordan-quotes-10-1280x720.jpg" width="600px">
-
-<br>
-
 <img src="https://qph.fs.quoracdn.net/main-qimg-31ac3fa03ca21ee9405c96f68378c4b5.webp" width="600px">
 
 <br>
