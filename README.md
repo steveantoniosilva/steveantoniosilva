@@ -1,5 +1,3 @@
-Hey!
-
 I'm Steve!
 
 Check out <a href="https://steveantoniosilva.github.io/" target="_blank">My GitHub Page</a> to learn more about me!
